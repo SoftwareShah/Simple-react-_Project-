@@ -17,9 +17,17 @@ This project was built purely for **learning and practicing React props**. The g
 
 ## 🖥️ Preview
 
-![FreelanceCard Preview](https://randomuser.me/api/portraits/men/32.jpg)
+<img width="948" height="375" alt="image" src="https://github.com/user-attachments/assets/9273b359-d6a0-4e36-aed4-d7d03657e809" />
+<img width="944" height="342" alt="image" src="https://github.com/user-attachments/assets/94dd48bd-4543-436c-9815-06fdf0edfd36" />
+<img width="925" height="483" alt="image" src="https://github.com/user-attachments/assets/2ef521b9-71f4-4c2a-91f3-281cc4f2fbde" />
 
-> Dark themed, responsive freelancer card grid — built with React + Tailwind CSS v4.
+<img width="571" height="358" alt="image" src="https://github.com/user-attachments/assets/db5d20fc-2791-4700-926a-9e573f19f554" />
+
+
+
+
+
+> Dark themed,  100% responsive freelancer card grid — built with React + Tailwind CSS v4.
 
 ---
 
